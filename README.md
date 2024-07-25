@@ -91,8 +91,5 @@ total        used        free      shared  buff/cache   available
 Mem:           986Mi        90Mi       69Mi       0.0Ki       827Mi       815Mi
 Swap:          4.0Gi          0B       4.0Gi
 
-Conclusion
-
-You have successfully created and configured a 4GB swap file on your BTT-CB1. This additional swap space will help manage memory usage more effectively, especially during memory-intensive tasks.
-
-You can now copy and paste this text directly into your GitHub repository’s README.md 
+Caution
+Backup before anything !!
